@@ -2848,10 +2848,12 @@ input, select, textarea {
 		height: 4rem;
 		position: relative;
 		width: 6rem;
+	
 	}
 
 		a.arrow .label {
 			display: none;
+			
 		}
 
 		a.arrow:before {
@@ -2864,6 +2866,7 @@ input, select, textarea {
 			height: 100%;
 			position: relative;
 			width: 3rem;
+			
 		}
 
 /* Gallery */
@@ -3186,7 +3189,7 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				color: #000000;
+				/* color: #000000; */
 				display: block;
 				font-size: 1.25rem;
 				height: 3.25rem;
